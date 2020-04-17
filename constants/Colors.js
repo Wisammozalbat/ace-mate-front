@@ -1,5 +1,9 @@
+//Color constants to be used anywhere in the app
+
 export default {
-    primaryColor: '#4a148c',
-    accentColor: '#ff6f00'
-  };
-  
+  headerColor: '#ff80d7',
+  acceptColor: '#ff99df',
+  cancelColor: '#ff00af',
+  checkColor: '#ff99df',
+  closeColor: '#ff00af'
+};
